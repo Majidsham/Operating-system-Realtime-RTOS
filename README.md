@@ -128,6 +128,7 @@ Please check this repository regularly for updates.
 Course Instructor — Embedded and Real-Time Systems  
 Department of Computer Engineering  
 Ishragh University
+<img width="1111" height="875" alt="class info" src="https://github.com/user-attachments/assets/9fa64cf1-1a5d-4355-b5b3-739194e02682" />
 
 ## Keywords
 
